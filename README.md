@@ -1,6 +1,6 @@
 # Age Calculator
 
-This project is an **Age Calculator** that allows users to input their **Date of Birth** and the **Current Date**, and it calculates their exact age in **years**, **months**, and **days**. Additionally, it provides a smooth **animation** that counts up to the user's age and displays a **progress bar** showing the user's age relative to a typical life expectancy.
+This project is an **Age Calculator** that allows users to input their **Date of Birth** and the **Current Date**, and it calculates their exact age in **years**, **months**, and **days**. 
 
 ## Features
 - **Age Calculation**: Computes the user's age in years, months, and days.
